@@ -1,5 +1,4 @@
-//Aluno: Nicholas de Araujo Figueira
-//DRE: 121 088 218
+//Aluno: Nicholas de Araujo 
 
 #include <stdio.h>
 #include <stdlib.h>
